@@ -1,0 +1,18 @@
+body{
+    background-color: grey;
+    color: white;
+    text-align: center;
+}
+h1{
+    font-size: 70px;
+    
+}
+
+.first,.second,.third{
+    font-size: 32px;
+}
+
+button{
+    font-size: 32px;
+    background-color: aqua;
+}
